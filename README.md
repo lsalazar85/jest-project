@@ -1,2 +1,2 @@
-# platzi-store
-Curso de Pruebas unitarias con Jest
+# Jest Project
+React App with Jest - Ensyme Test
